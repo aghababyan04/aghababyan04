@@ -23,7 +23,12 @@ I am an aspiring Frontend Developer passionate about creating interactive and us
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,next" />
+  <img src="HTML5.png" alt="HTML" width="50" height="50" />
+  <img src="CSS3.png" alt="CSS" width="50" height="50" />
+  <img src="JavaScript.png" alt="JavaScript" width="50" height="50" />
+  <img src="React.png" alt="React" width="50" height="50" />
+  <img src="Redux.png" alt="Redux" width="50" height="50" />
+  <img src="Next.js.png" alt="Next.js" width="50" height="50" />
 </p>
 
 ---
