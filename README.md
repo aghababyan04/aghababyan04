@@ -1,39 +1,49 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zkb2VndmNtcXN6YXN0b3FlbW54Mnd5N3I2ODN5NmN6Yzh3b3N0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header Banner" />
+
+  <br/><br/>
+  <h1>Hi there 👋, I'm [Your Name]!</h1>
   
-  <h1>Привет 👋 Меня зовут [Քո Անունը]!</h1>
-  
-  <a href="https://youtube.com/[քո_ալիքը]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://t.me/[քո_յուզերնեյմը]" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/aghababyaan" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.instagram.com/aghababyaan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
 ---
 
-### 👨‍💻 Обо мне (Իմ մասին)
+### 👨‍💻 About Me
 
-Я начинающий Frontend разработчик. Мой путь в IT начался с... [Գրիր քո մասին կարճ պատմություն]
+I am an aspiring Frontend Developer passionate about creating interactive and user-friendly web applications. My journey in tech started with web development courses and continuous self-learning.
 
-- 🚀 Изучаю: React, TypeScript, Node.js
-- 💼 Ищу работу или открыт для коллабораций
-- 💬 Спроси меня о: Web Development
+- 🚀 Currently learning: **React, TypeScript, Next.js**
+- 💼 Looking for new opportunities and collaborations
+- 💬 Ask me about: **Frontend development, UI/UX, Javascript**
+- 📫 How to reach me: **[Your Email]**
 
 ---
 
-### 🛠️ Технологии (Տեխնոլոգիաներ)
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,webpack,wordpress,nodejs,python,git" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,vite,nextjs,webpack,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 Моя статистика (Իմ վիճակագրությունը)
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ՔՈ_GITHUB_USERNAME_ԱՅՍՏԵՂ&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ՔՈ_GITHUB_USERNAME_ԱՅՍՏԵՂ&layout=compact&theme=dark" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aghababyaan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghababyaan&layout=compact&theme=dark" alt="Top Languages" height="180" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ՔՈ_GITHUB_USERNAME_ԱՅՍՏԵՂ&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aghababyaan&theme=dark" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
