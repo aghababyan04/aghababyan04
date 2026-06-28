@@ -23,7 +23,7 @@ I am an aspiring Frontend Developer passionate about creating interactive and us
 ### 🚀 Featured Project
 * **Noé Design Studio** - A modern & responsive landing page.
   * 🛠️ **Tech Stack:** Next.js, React, CSS
-  * 🔗 [Live Demo](https://aghababyan04-github-io.vercel.app) | [Source Code](https://github.com/aghababyan04/aghababyan04.github.io)
+  * 🔗 [Live Demo]([https://aghababyan04-github-io.vercel.app](https://aghababyan04-github-io-cgoy.vercel.app/)) | [Source Code](https://github.com/aghababyan04/aghababyan04.github.io)
 ---
 
 ### 🛠️ Tech Stack & Tools
